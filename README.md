@@ -1,8 +1,18 @@
 # OpenAiImageGeneration
 
-
-
-
+Tech Stack
+ Frontend -
+ 1.JavaScript
+  2.html
+   3.css
+ 
+ Backend -
+  NodeJs
+  ExpressJs
+  
+  APIs -
+  OpenAI
+  
 1.npm init vite@latest "filename" 
 
 2.cd "filename"
